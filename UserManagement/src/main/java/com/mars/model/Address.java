@@ -12,8 +12,6 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 import javax.validation.constraints.NotBlank;
 
-import org.hibernate.validator.constraints.NotEmpty;
-
 	@Entity
     @Table(name="address")
 	
